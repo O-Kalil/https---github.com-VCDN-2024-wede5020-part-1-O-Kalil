@@ -32,38 +32,40 @@ This image represents my logo, with has been made in Canva.
 
 
 III)	Website Pages:
-Fair_Market consists of 6 pages beginning with:
-o	Home-Page:   
-	The Logo with the slogan
-	Link to the other pages
-	Button Call to Action {Donation}
-	Company Details
-	Copyright/Years
+ Fair_Market consists of 6 pages beginning with:
+     o	Home-Page:   
+   	The Logo with the slogan
+   	Link to the other pages
+   	Button Call to Action {Donation}
+   	Company Details
+   	Copyright/Years
 
-o	Online Store:
-	Product 
-	Search-filters {by Price, types}
-	Cart and checkout
+    o	Online Store:
+   	Product 
+   	Search-filters {by Price, types}
+   	Cart and checkout
 
-o	Donate Support us:
-	Button to make donation 
-	Solidarity Basket (to distribute to family)
-	Donation Transparency (Images, videos, Shema)
+    o	Donate Support us:
+   	Button to make donation 
+   	Solidarity Basket (to distribute to family)
+   	Donation Transparency (Images, videos, Shema)
 
-o	Education and Resources:
-	Articles and guides {About-Nutrition, budget management, Balanced receipt}
-	Tutoriels_Videos 
+    o	Education and Resources:
+   	Articles and guides {About-Nutrition, budget management, Balanced receipt}
+   	Tutoriels_Videos 
 
 
-o	About us:
-	Our story
-	Teams
-	Partners
+    o	About us:
+   	Our story
+   	Teams
+   	Partners
 
-o	Contact page:
-	Contact Form
-	FAQ
-References:
+    o	Contact page:
+   	Contact Form
+   	FAQ
+
+
+    References:
 •	 Canva. 2024. Canva: Design anything, 7 August 2024. [Online]. Available at: https://www.canva.com [Accessed 12 August 2024].
 
 •	Unsplash. 2024. Unsplash: Beautiful, Free Photos, 15 August 2024. [Online]. Available at: https://www.unsplash.com [Accessed 15 August 2024].
